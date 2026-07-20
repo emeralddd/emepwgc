@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+langgraph
+langchain
+langchain-openrouter
+langgraph-checkpoint-sqlite
